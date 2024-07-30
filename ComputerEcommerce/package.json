@@ -1,0 +1,14 @@
+{
+  "name": "computerecommerce",
+  "version": "1.0.0",
+  "description": "tico",
+  "main": "index.js",
+  "scripts": {
+    "test": "tico"
+  },
+  "keywords": [
+    "tico"
+  ],
+  "author": "Julian",
+  "license": "ISC"
+}
