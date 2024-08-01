@@ -1,1 +1,1 @@
-# tico
+# Ecommerce para ropa y computadores
