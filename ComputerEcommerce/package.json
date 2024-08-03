@@ -10,5 +10,9 @@
     "tico"
   ],
   "author": "Julian",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@auth/mongodb-adapter": "^3.4.2",
+    "mongodb": "^6.8.0"
+  }
 }
